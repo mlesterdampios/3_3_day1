@@ -1,0 +1,7 @@
+{
+  "name": "3_3_day1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
