@@ -192,4 +192,5 @@ MIT
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
 
 Edited Line
+Added Line By Dev2
 Added Line on Main
